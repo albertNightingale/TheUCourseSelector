@@ -1,8 +1,14 @@
-## **Author** ​: Albert Liu
+## **Author** ​: Albert (Jiaming) Liu
 ## **Partner** ​: None
 ## **Date** ​: 11/12/2020
 ## **Course** ​: CS 4540, University of Utah, School of Computing
 ## **Copyright** ​: CS 4540 and Albert Liu - This work may not be copied for use in Academic Coursework.
+
+# Comments to Viewers: 
+This project is built as an assignment for CS4540. 
+The user inputs a certain year, the semester, and the number of courses to select. 
+The program will use Selenium read through the html of the utah courses page and put the detail of each course into a table. 
+The user can select each row of the table to view the description of the course. 
 
 # Comments to Evaluators:
 
