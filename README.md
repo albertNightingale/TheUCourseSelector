@@ -1,10 +1,8 @@
 ## **Author** ​: Albert Liu
 ## **Partner** ​: None
-## **Date** ​: 11/12/
+## **Date** ​: 11/12/2020
 ## **Course** ​: CS 4540, University of Utah, School of Computing
 ## **Copyright** ​: CS 4540 and Albert Liu - This work may not be copied for use in Academic Coursework.
-## **Deployed URL** ​:
-## **Github Page** ​: https://github.com/uofu-cs4540-fall2020/ps7---selenium-scraper-albertNightingale
 
 # Comments to Evaluators:
 
@@ -33,7 +31,7 @@
 # Assignment Specific Write-up:
 
 ### 1. Peer review (one line): 
-Luke, u0894525
+Luke
 
 ### 2. Time Out Value - what value did you choose, why did you choose it, and what effects did various values have on your program?
 10 seconds is what I chose. It is the safest in the start the program might need some time to load the html. I have no issue with time out from the beginning.
